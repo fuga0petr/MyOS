@@ -1,0 +1,8 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Name": "MyOS" }],
+        "Id": "myos-wallpaper",
+        "License": "CC-BY-SA-4.0",
+        "Name": "MyOS Default Wallpapers"
+    }
+}

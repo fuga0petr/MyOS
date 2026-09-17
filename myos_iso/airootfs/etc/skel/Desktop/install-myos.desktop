@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Установить MyOS
+Exec=sudo -E calamares
+Icon=system-software-install
+Terminal=false
+Categories=System;
